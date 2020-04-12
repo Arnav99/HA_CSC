@@ -89,5 +89,21 @@ background: whitesmoke;
 	padding-bottom: 20px;
 }
 
+.out{
+	margin-left: 60%;
+	text-decoration: none;
+	text-transform: uppercase;
+	border: 2px solid black;
+}
+
+.checkout{
+	margin-left: 35%;
+}
+.checkout-h1{
+	text-align: center;
+}
+.checkout-p{
+	text-align: center;
+}
 
 
