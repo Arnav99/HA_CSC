@@ -90,6 +90,8 @@ background: whitesmoke;
 }
 
 .out{
+
+
 	margin-left: 60%;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -98,7 +100,15 @@ background: whitesmoke;
 
 .checkout{
 	margin-left: 35%;
+	height: 30%;
+	width: 30%;
+	
+	@media (max-width:550px) {
+              
+		margin-left: 0%;
+	}
 }
+
 .checkout-h1{
 	text-align: center;
 }
