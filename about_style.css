@@ -1,0 +1,31 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: linear-gradient(to top, lightgrey 0%, lightgrey 1%, #e0e0e0 26%, #efefef 48%, #d9d9d9 75%, #bcbcbc 100%);
+
+    margin-left: 50px;
+
+    @media (min-width:550px) {
+        
+        body{
+            margin-left: 0;
+
+        }
+        
+    }
+}
+
+h1{
+    font-size: 3rem;
+}
+
+h2{
+    font-size: 2rem;
+    font-weight: 400;
+    font-family: 'Comic Neue', cursive;
+    font-weight: 700;
+}
+
+p,li{
+    font-family: 'Comic Neue', cursive;
+    font-size: 1.5rem;
+}
