@@ -103,9 +103,10 @@ background: whitesmoke;
 	height: 30%;
 	width: 30%;
 	
-	@media (max-width:550px) {
+	@media(max-width:550px) {
               
-		margin-left: 0%;
+		height:10%;
+		width:10%
 	}
 }
 
